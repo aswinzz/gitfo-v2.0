@@ -14,5 +14,13 @@ I have made a webapp using nodejs and Github api which will display the user ifo
 
 * Open `localhost:3000` in any browser
 
+# Take A Look-
+
+![scr1](scr1.png)
+
+![scr2](scr2.png)
+
+![scr3](scr3.png)
+
 
  
